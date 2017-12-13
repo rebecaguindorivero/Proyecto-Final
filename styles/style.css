@@ -1,0 +1,120 @@
+* {
+    padding: 0;
+    margin: 0;
+    border: 0;
+    box-sizing: border-box;
+}
+
+.container {
+    width: 1170px;
+    margin: 0 auto;
+}
+
+body {
+    text-align: center;
+    color: #1b2126;
+}
+
+nav {
+    background-color: #1b2126;
+    padding-top: 15px;
+}
+
+li {
+    display: inline;
+    color: white;
+    padding-left: 20px;
+    text-align: left;
+}
+
+input {
+    background-color: #5c6269;
+    border-radius: 6px;
+    width: 370px;
+    height: 38px;
+}
+
+.pelis img, .pad_top_30 {
+    padding-top: 30px;
+}
+
+.flecha {
+    padding-left: 15px;
+}
+
+.flecha img {
+    padding: 0px;
+
+}
+
+.flex {
+    display: flex;
+    align-items: center;
+}
+.typo {
+    font-family: 'Nunito Sans', sans-serif;
+}
+.subt h2 {
+    font-size: 25px;
+}
+.tiempo {
+    font-size: 20px;
+    color: #a5a8ac;
+}
+p {
+   font-size: 16px;
+     color: #8e9297;
+}
+.simi {
+    color: #5c6269;
+}
+.bold {
+    font-size: 18px;
+    font-weight: 700;
+    padding-top: 20px;
+    padding-bottom: 60px;
+}
+.lang {
+   font-weight: 400;
+    text-decoration: underline;
+}
+.icono-estilo {
+    font-size: 14px;
+    color: #c0c4c8;
+}
+h3 {
+    padding-left: 550px;
+}
+h4 {
+   font-weight: 600;
+}
+.btn {
+border-radius: 6px;
+background-color:  #e9ecee;
+width: 86px;
+height: 28px;
+    margin-right: 10px;
+}
+.btn_1 {
+    margin-right: 320px;
+}
+.pad_10 {
+    padding-right: 10px;
+}
+.pad_30 {
+    padding-right: 30px;
+}
+.cerrar {
+    padding-top: 25px;
+    padding-right: 25px;
+}
+.pad_top_30 img, nav {
+    padding-bottom: 15px;
+}
+.pad_top_30 h2, p {
+    padding: 0px;
+    margin: 0;
+}
+.pad_bton_70 {
+    padding-bottom: 70px;
+}
